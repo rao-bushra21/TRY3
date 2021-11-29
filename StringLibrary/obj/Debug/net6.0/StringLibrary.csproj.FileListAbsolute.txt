@@ -1,0 +1,12 @@
+D:\visual\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.deps.json
+D:\visual\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.dll
+D:\visual\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\ref\StringLibrary.dll
+D:\visual\ClassLibraryProjects\StringLibrary\bin\Debug\net6.0\StringLibrary.pdb
+D:\visual\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.AssemblyReference.cache
+D:\visual\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\visual\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfoInputs.cache
+D:\visual\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.AssemblyInfo.cs
+D:\visual\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.csproj.CoreCompileInputs.cache
+D:\visual\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.dll
+D:\visual\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\ref\StringLibrary.dll
+D:\visual\ClassLibraryProjects\StringLibrary\obj\Debug\net6.0\StringLibrary.pdb
